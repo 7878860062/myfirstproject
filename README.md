@@ -63,7 +63,7 @@ Production Team will deploy the code first, now there is some work going on in t
 
 ## 2. Changed made but not approved:
 
-1. Produnction:
+1. Production:
 
 ![a1](https://user-images.githubusercontent.com/64473684/84481887-6b268a00-acb4-11ea-9aa3-d9d1e1dd917a.PNG)
 
@@ -101,7 +101,9 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 ![w3](https://user-images.githubusercontent.com/64473684/84496803-3a9e1a80-accb-11ea-8a54-08567b986344.PNG)
 
 
-* Provided the command to check wether the docker conatiner is already running, if not create it mount the volume and expose it's port 80 to base os port 8082.
+* Provided the command to check wether the docker conatiner is already running, if not create it mount the volume and expose it's port 80 to base os port 8084.
+
+![w5](https://user-images.githubusercontent.com/64473684/84497666-e005be00-accc-11ea-8db9-7fde67c92b62.PNG
 
 
 
