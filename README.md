@@ -45,3 +45,4 @@ Production Team will deploy the code first, now there is some work going on in t
 
 1. Created a hook for post-commit and post-merge so the developer need not to be manually push the code each time he commits
 ![1](https://user-images.githubusercontent.com/64473684/84466652-7d45ff80-ac97-11ea-89e0-1d1bb16e612d.PNG)
+![2](https://user-images.githubusercontent.com/64473684/84472691-4971d680-aca5-11ea-8aeb-0d44d6210ebe.PNG)
