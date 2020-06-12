@@ -48,3 +48,10 @@ Production Team will deploy the code first, now there is some work going on in t
 ![2](https://user-images.githubusercontent.com/64473684/84472691-4971d680-aca5-11ea-8aeb-0d44d6210ebe.PNG)
 2. Added The webhooks to the Jenkins Github API :=> ip/github-webhook/
 ![webhooks](https://user-images.githubusercontent.com/64473684/84473373-94d8b480-aca6-11ea-82bf-ecb0e698d38c.jpg)
+
+## Screenshots :
+
+## 1. Initially:
+
+1. Production:
+
