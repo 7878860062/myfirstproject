@@ -74,6 +74,11 @@ Production Team will deploy the code first, now there is some work going on in t
 
 3. QA rejected
 
+## Changed and approved:
+
+1. Testing :
+
+
 
 
 
