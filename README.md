@@ -130,6 +130,9 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 
 ![1c03](https://user-images.githubusercontent.com/64473684/84504145-0f222c80-acd9-11ea-8a52-e536dea5fd4f.jpg)
 
+* After the push is being done. This job will call the job1 and job2 so that the code can be updated. (This part can be omitted as webhook will do it's job, but to be on safe side, I have put these projects as downstream projects)
+
+
 
 
 
