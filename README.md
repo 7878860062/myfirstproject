@@ -124,6 +124,8 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 
 * Details is provided to the additional behaviour so that merging could be done.
 
+![1c01](https://user-images.githubusercontent.com/64473684/84503924-b2bf0d00-acd8-11ea-94ad-2c9bd3d91e34.jpg)
+
 
 
 
