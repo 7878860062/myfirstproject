@@ -55,5 +55,7 @@ Production Team will deploy the code first, now there is some work going on in t
 
 1. Production:
 ![hello](https://user-images.githubusercontent.com/64473684/84479275-4d572600-acb0-11ea-8f2e-f99877ee2e27.PNG)
+2. Testing:
+
 
 
