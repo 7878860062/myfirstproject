@@ -61,5 +61,11 @@ Production Team will deploy the code first, now there is some work going on in t
 
 ![a2](https://user-images.githubusercontent.com/64473684/84482017-a4f79080-acb4-11ea-9e7f-81d93e586208.PNG)
 
+## 2. Changed made but not approved:
+
+1. Produnction:
+
+
+
 
 
