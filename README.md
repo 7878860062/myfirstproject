@@ -78,7 +78,7 @@ Production Team will deploy the code first, now there is some work going on in t
 
 1. Testing :
 
-![a3](https://user-images.githubusercontent.com/64473684/84484821-e8ec9480-acb8-11ea-9263-cd4a0c7bbf26.PNG)
+
 
 
 
