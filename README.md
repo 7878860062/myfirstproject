@@ -84,6 +84,9 @@ Production Team will deploy the code first, now there is some work going on in t
 
 ![www](https://user-images.githubusercontent.com/64473684/84494062-72569380-acc6-11ea-8a0f-30415ab3319b.PNG)
 
+![qa1](https://user-images.githubusercontent.com/64473684/84494220-bb0e4c80-acc6-11ea-80ae-fa2054fb3bf7.jpg)
+
+
 
 
 
