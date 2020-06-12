@@ -128,6 +128,8 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 
 * Post Build Action deatils provided, so that push after the merge can be done
 
+![1c03](https://user-images.githubusercontent.com/64473684/84504145-0f222c80-acd9-11ea-8a52-e536dea5fd4f.jpg)
+
 
 
 
