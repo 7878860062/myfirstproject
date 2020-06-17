@@ -60,7 +60,7 @@ Production Team will deploy the code first, now there is some work going on in t
 
 2. Testing:
 
-![6](https://user-images.githubusercontent.com/64473684/84865800-7142af00-b096-11ea-8150-a31cbf889a32.PNG)
+![6](https://user-images.githubusercontent.com/64473684/84867190-6721b000-b098-11ea-8ef2-54c6b0352594.PNG)
 
 ## 2. Changed made but not approved:
 
