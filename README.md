@@ -78,7 +78,8 @@ Production Team will deploy the code first, now there is some work going on in t
 
 1. Testing :
 
-![a4](https://user-images.githubusercontent.com/64473684/84485365-b000ef80-acb9-11ea-88b5-332a990fb9aa.PNG)
+![82 COLOR](https://user-images.githubusercontent.com/64473684/84867721-43ab3500-b099-11ea-9c4c-1bcf480c36f1.PNG)
+
 
 2. QA Approved
 
