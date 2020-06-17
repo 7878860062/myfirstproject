@@ -89,7 +89,8 @@ Production Team will deploy the code first, now there is some work going on in t
 
 3. Production
 
-![a4](https://user-images.githubusercontent.com/64473684/84495581-03c70500-acc9-11ea-8dfc-17a3220ca93a.PNG)
+![81 COLOR](https://user-images.githubusercontent.com/64473684/84867941-8bca5780-b099-11ea-826b-ad11a8221e49.PNG)
+
 
 
 ## Steps and Configurations Screenshots :
